@@ -82,44 +82,15 @@
 ### Aplicación YesOrNo (0.5 puntos)
 ![YesOrNo](./assets/images/result_yes_orno.jpeg)
 
+
 ## Presentación Presencial
 
 ### Arquitectura Limpia
 
 El proyecto implementa la arquitectura limpia, dividida en las siguientes capas:
 
-#### Capa App
-![Capa App](./assets/images/captura18.png)
-
-#### Capa Config
-![Capa Config](./assets/images/captura19.png)
-
-#### Capa Domain
-![Capa Domain](./assets/images/captura20.png)
-
-#### Capa Infrastructure
-![Capa Infrastructure](./assets/images/captura21.png)
-
-#### Capa Presentation
-![Capa Presentation](./assets/images/captura22.png)
-
-### Diseño Responsivo
-
-Se ha implementado un diseño responsivo siguiendo las guías de Material Design UI.
-
-![Diseño Responsivo](./assets/images/captura23.png)
-
-### Interacción con Widgets
-
-La aplicación interactúa utilizando los estados StatelessWidget y StatefulWidget.
-
-![Interacción con Widgets](ruta/a/la/captura24.png)
-
-### Widgets Personalizados
-
-Se han creado widgets personalizados para su reutilización en la aplicación.
-
-![Widgets Personalizados](ruta/a/la/captura25.png)
+#### Proyecto con Arquitectura
+![Capa App](./assets/images/arqui.jpg)
 
 ### Proyecto con Arquitectura
 
