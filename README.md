@@ -83,8 +83,6 @@
 ![YesOrNo](./assets/images/result_yes_orno.jpeg)
 
 
-## Presentación Presencial
-
 ### Arquitectura Limpia
 
 El proyecto implementa la arquitectura limpia, dividida en las siguientes capas:
@@ -92,6 +90,6 @@ El proyecto implementa la arquitectura limpia, dividida en las siguientes capas:
 #### Proyecto con Arquitectura
 ![Capa App](./assets/images/arqui.jpg)
 
-### Proyecto con Arquitectura
+## Proyecto con Arquitectura
 
 [MAF-Watch](https://github.com/Abrahames0/MAF-Watch)
