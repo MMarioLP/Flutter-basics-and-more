@@ -83,7 +83,7 @@
 ![YesOrNo](./assets/images/result_yes_orno.jpeg)
 
 
-### Arquitectura Limpia
+## Arquitectura Limpia
 
 El proyecto implementa la arquitectura limpia, dividida en las siguientes capas:
 
