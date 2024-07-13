@@ -121,3 +121,6 @@ Se han creado widgets personalizados para su reutilización en la aplicación.
 
 ![Widgets Personalizados](ruta/a/la/captura25.png)
 
+### Proyecto con Arquitectura
+
+[MAF-Watch](https://github.com/Abrahames0/MAF-Watch)
